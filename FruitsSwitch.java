@@ -1,6 +1,6 @@
 public class FruitsSwitch {
     public static void main(String[] args) {
-        char ch = 'X'; 
+        char ch = 'V'; 
 
         switch (ch) {
             case 'A':
